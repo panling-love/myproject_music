@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # y
 
 > y
@@ -19,3 +20,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# myproject_music
+仿网易云app
+>>>>>>> 0313ffdc54c18dcf927828b9f31ccbbe28649ce6
